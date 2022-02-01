@@ -13,13 +13,14 @@ body{
 
 .quem-somos{
     background-color: rgb(197, 183, 228);
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     color: white;
     
 }
 
 .margin{
     margin-bottom: 50px;
+    padding-top: 10px;
 }
 
 .img-time{
@@ -27,4 +28,8 @@ body{
     border: 5px solid gray;
     height: 270px;
     width: 300px;
+}
+
+.parceiros{
+    background-color: rgb(240, 236, 6);
 }
